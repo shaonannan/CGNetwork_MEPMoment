@@ -7,7 +7,7 @@ The code is tested in Anaconda 3 (Python 3.6 and Python 3.7) on Windows 10.
 In EXAMPLE.py file
     
     cmd = 'python RunVoltageMoment.py -stimulus 0'
-Use network with default parameters to run simulation in counterchanging on/off stimulus
+Use network with default parameters to run simulation under counterchanging on/off stimulus
 
     cmd = 'python RunVoltageMoment.py -stimulus 1'
 Use network with default parameters to run simulation under ON-/OFF-LMI stimulus
