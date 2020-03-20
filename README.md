@@ -3,6 +3,10 @@ SZT Dimensional Reduction of Emergent Spatiotemporal Cortical Dynamics via a Max
 # CG Network for V1 via a Maximum Entropy Moment Closure
 The code is tested in Anaconda 3 (Python 3.6 and Python 3.7) on Windows 10.
 
+The structure of this Python program uses Allen's simulation platform DiPDE for reference. 
+DiPDE (dipde) is also an excellent simulation platform for numerically solving the time evolution of coupled networks of neuronal populations. You can find their algorithms in,
+Website: © 2015 Allen Institute for Brain Science. DiPDE Simulator [Internet]. Available from: https://github.com/AllenInstitute/dipde.
+
 ## Get started with default configurations
 In EXAMPLE.py file
     
