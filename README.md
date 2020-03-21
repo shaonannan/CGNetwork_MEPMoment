@@ -8,10 +8,9 @@ https://github.com/shaonannan/largecode_IFSpiking
 
 The structure of this Python program uses Allen's simulation platform DiPDE for reference. 
 DiPDE (dipde) is also an excellent simulation platform for numerically solving the time evolution of coupled networks of neuronal populations. You can find their algorithms in,
-
 Website: © 2015 Allen Institute for Brain Science. DiPDE Simulator [Internet]. Available from: https://github.com/AllenInstitute/dipde.
 
-We are still refining this code, especially the 'MFEs' parts (simulation.py, function 'def getMFE_ifdyn' in utilities.py and etc.) which account for transient dynamics. Another topic we are following up will be updated on this page.
+We are still refining this code, especially the 'MFEs' parts (simulation.py, function 'def getMFE_ifdyn' in utilities.py and etc.) which account for transient dynamics. Another project we are following up will be updated on this page.
 
 ## Get started with default configurations
 In EXAMPLE.py file
